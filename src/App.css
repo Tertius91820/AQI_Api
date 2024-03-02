@@ -1,5 +1,5 @@
 .bg-orange {
-  background-color: #FFA500;
+  background-color: #f6d394;
 }
 
 .bg-very-unhealthy {
@@ -7,5 +7,10 @@
 }
 
 .bg-hazardous {
-  background-color: #7E0023;
+  background-color: #7e0024aa;
+}
+
+#root,
+html {
+  background-color: rgba(41, 52, 87, 0.718);
 }
